@@ -1,4 +1,4 @@
-A great animation I found on Momo App from App Store, and I tried to make it on my own.
+A great hint view I found on Momo shopping App from App Store, and I tried to make it on my own.
 ![1*H30vWVhlFmsEDDbwQpPf9A](https://github.com/user-attachments/assets/88989806-4a14-45ed-b011-c385c75539d7)
 
 To see more detail here:
